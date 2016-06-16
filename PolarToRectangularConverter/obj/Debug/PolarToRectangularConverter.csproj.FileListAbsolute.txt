@@ -1,0 +1,9 @@
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\PolarToRectangularConverter\PolarToRectangularConverter\bin\Debug\PolarToRectangularConverter.exe.config
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\PolarToRectangularConverter\PolarToRectangularConverter\bin\Debug\PolarToRectangularConverter.exe
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\PolarToRectangularConverter\PolarToRectangularConverter\bin\Debug\PolarToRectangularConverter.pdb
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\PolarToRectangularConverter\PolarToRectangularConverter\obj\Debug\PolarToRectangularConverter.csprojResolveAssemblyReference.cache
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\PolarToRectangularConverter\PolarToRectangularConverter\obj\Debug\PolarToRectangularConverter.FrmMain.resources
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\PolarToRectangularConverter\PolarToRectangularConverter\obj\Debug\PolarToRectangularConverter.Properties.Resources.resources
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\PolarToRectangularConverter\PolarToRectangularConverter\obj\Debug\PolarToRectangularConverter.csproj.GenerateResource.Cache
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\PolarToRectangularConverter\PolarToRectangularConverter\obj\Debug\PolarToRectangularConverter.exe
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\PolarToRectangularConverter\PolarToRectangularConverter\obj\Debug\PolarToRectangularConverter.pdb
