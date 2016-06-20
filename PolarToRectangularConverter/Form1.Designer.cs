@@ -48,7 +48,7 @@
             this.fileToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(504, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(729, 28);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -64,14 +64,14 @@
             // aboutToolStripMenuItem
             // 
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(134, 26);
             this.aboutToolStripMenuItem.Text = "About...";
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(134, 26);
             this.exitToolStripMenuItem.Text = "Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
@@ -80,43 +80,44 @@
             this.txtXY.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtXY.Location = new System.Drawing.Point(88, 209);
             this.txtXY.Name = "txtXY";
-            this.txtXY.Size = new System.Drawing.Size(100, 38);
+            this.txtXY.Size = new System.Drawing.Size(191, 38);
             this.txtXY.TabIndex = 1;
             // 
             // txtRTheta
             // 
             this.txtRTheta.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtRTheta.Location = new System.Drawing.Point(321, 209);
+            this.txtRTheta.Location = new System.Drawing.Point(452, 209);
             this.txtRTheta.Name = "txtRTheta";
-            this.txtRTheta.Size = new System.Drawing.Size(100, 38);
+            this.txtRTheta.Size = new System.Drawing.Size(164, 38);
             this.txtRTheta.TabIndex = 2;
             // 
             // lblXY
             // 
             this.lblXY.AutoSize = true;
-            this.lblXY.Location = new System.Drawing.Point(117, 189);
+            this.lblXY.Location = new System.Drawing.Point(177, 189);
             this.lblXY.Name = "lblXY";
-            this.lblXY.Size = new System.Drawing.Size(40, 17);
+            this.lblXY.Size = new System.Drawing.Size(30, 17);
             this.lblXY.TabIndex = 3;
-            this.lblXY.Text = "(X,Y)";
+            this.lblXY.Text = "X Y";
             // 
             // lblRTheta
             // 
             this.lblRTheta.AutoSize = true;
-            this.lblRTheta.Location = new System.Drawing.Point(351, 189);
+            this.lblRTheta.Location = new System.Drawing.Point(449, 189);
             this.lblRTheta.Name = "lblRTheta";
-            this.lblRTheta.Size = new System.Drawing.Size(35, 17);
+            this.lblRTheta.Size = new System.Drawing.Size(154, 17);
             this.lblRTheta.TabIndex = 4;
-            this.lblRTheta.Text = "(r,θ)";
+            this.lblRTheta.Text = "Radius Angle(degrees)";
             // 
             // btnCalc
             // 
-            this.btnCalc.Location = new System.Drawing.Point(214, 209);
+            this.btnCalc.Location = new System.Drawing.Point(304, 209);
             this.btnCalc.Name = "btnCalc";
-            this.btnCalc.Size = new System.Drawing.Size(75, 38);
+            this.btnCalc.Size = new System.Drawing.Size(123, 38);
             this.btnCalc.TabIndex = 5;
             this.btnCalc.Text = "Calculate";
             this.btnCalc.UseVisualStyleBackColor = true;
+            this.btnCalc.Click += new System.EventHandler(this.btnCalc_Click);
             // 
             // txtIntro
             // 
@@ -135,7 +136,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(504, 428);
+            this.ClientSize = new System.Drawing.Size(729, 456);
             this.Controls.Add(this.txtIntro);
             this.Controls.Add(this.btnCalc);
             this.Controls.Add(this.lblRTheta);
